@@ -1,0 +1,14 @@
+x	y	label	clickSelects	showSelected1	group
+-5	-1.5	tcell McGill0004	McGill0004	train	1
+-5	-2.5	tcell McGill0005	McGill0005	train	2
+-5	-3.5	tcell McGill0006	McGill0006	train	3
+-5	-4.5	tcell McGill0007	McGill0007	train	4
+-5	-5.5	tcell McGill0008	McGill0008	train	5
+-5	-6.5	tcell McGill0009	McGill0009	train	6
+-5	-7.5	tcell McGill0010	McGill0010	train	7
+-5	-8.5	tcell McGill0011	McGill0011	train	8
+-5	-1.5	skeletalMuscleMD McGill0012	McGill0012	validation	9
+-5	-2.5	skeletalMuscleMD McGill0013	McGill0013	validation	10
+-5	-3.5	skeletalMuscleMD McGill0014	McGill0014	validation	11
+-5	-4.5	skeletalMuscleMD McGill0015	McGill0015	validation	12
+-5	-5.5	skeletalMuscleMD McGill0016	McGill0016	validation	13

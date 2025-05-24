@@ -1,0 +1,8 @@
+x	y	label	clickSelects	showSelected1	group
+-5	0.5	skeletalMuscleMD McGill0012	McGill0012	train	1
+-5	1.5	skeletalMuscleMD McGill0013	McGill0013	train	2
+-5	2.5	skeletalMuscleMD McGill0014	McGill0014	train	3
+-5	3.5	skeletalMuscleMD McGill0015	McGill0015	train	4
+-5	4.5	skeletalMuscleMD McGill0016	McGill0016	train	5
+-5	0.5	monocyte McGill0001	McGill0001	validation	6
+-5	1.5	monocyte McGill0002	McGill0002	validation	7

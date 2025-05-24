@@ -1,0 +1,14 @@
+xmin	xmax	ymin	ymax	clickSelects	showSelected1
+0	100	-1.5	-0.5	McGill0004	train
+0	100	-2.5	-1.5	McGill0005	train
+0	100	-3.5	-2.5	McGill0006	train
+0	100	-4.5	-3.5	McGill0007	train
+0	100	-5.5	-4.5	McGill0008	train
+0	100	-6.5	-5.5	McGill0009	train
+0	100	-7.5	-6.5	McGill0010	train
+0	100	-8.5	-7.5	McGill0011	train
+0	100	-1.5	-0.5	McGill0012	validation
+0	100	-2.5	-1.5	McGill0013	validation
+0	100	-3.5	-2.5	McGill0014	validation
+0	100	-4.5	-3.5	McGill0015	validation
+0	100	-5.5	-4.5	McGill0016	validation

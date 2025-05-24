@@ -1,0 +1,8 @@
+y	x	label	showSelected1	showSelected2	group
+1.02	-0.07	skeletalMuscleMD McGill0012 max=1.5	train	McGill0012	1
+1.02	-0.07	skeletalMuscleMD McGill0013 max=2.3	train	McGill0013	2
+1.02	-0.07	skeletalMuscleMD McGill0014 max=2.2	train	McGill0014	3
+1.02	-0.07	skeletalMuscleMD McGill0015 max=17.3	train	McGill0015	4
+1.02	-0.07	skeletalMuscleMD McGill0016 max=2.8	train	McGill0016	5
+1.02	-0.07	monocyte McGill0001 max=1.0	validation	McGill0001	6
+1.02	-0.07	monocyte McGill0002 max=26.0	validation	McGill0002	7

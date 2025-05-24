@@ -1,0 +1,3 @@
+linetype	group	clickSelects
+solid	1	train
+dotted	2	validation
